@@ -3,7 +3,8 @@
 ## How to use this review repository
 
 * Complete all Review Exercises - When working through the problems, make sure you understand what you're doing. Write down any questions that come up and bring them to the review sessions
-* Try to work through the labs and the assessment again to test your understanding of the material.
+* For any topic - work through exercises first and defer to the resources on Canvas when you need to only
+* Try to work through the labs and the assessment again to test your understanding of the material
 * Try to write pseudo code for the review exercises before solving them
 * At least once a day and preferably more try to whiteboard answers before coding them on the computer
 * Make sure to memorize the correct Syntax for the covered topics
