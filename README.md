@@ -52,5 +52,19 @@
 
 [Midterm Assessment](https://replit.com/@RazEfron/106-module-1-midterm-assesment-part-2?v=1) - Great way to check for your understanding and progress
 
-// Add unsolved Labs
+### Please review and reattempt your previous labs:
 
+[Introduction to Javascript](https://replit.com/@RazEfron/Introductory-JavaScript-Lab-4?v=1)
+Note: You do not have to go through and add comments again for this lab, just review each line and make sure you understand what the code does.
+
+[Functions](https://replit.com/@RazEfron/Functions-Lab-106?v=1)
+
+[Control Flow](https://replit.com/@RazEfron/control-flow-lab-10-6?v=1)
+
+[Loops](https://replit.com/@RazEfron/Loops-Lab-106?v=1)
+
+[Scope](https://replit.com/@RazEfron/Scope-Lab-106?v=1)
+
+[Arrays](https://replit.com/@RazEfron/Arrays-Lab-106?v=1)
+
+[Objects](https://replit.com/@RazEfron/Objects-Lab-106?v=1)
