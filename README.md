@@ -32,7 +32,7 @@
 
 [Review 1 - Math and Logical Expressions](https://replit.com/@RazEfron/Review-1-Math-and-Logical-Expressions?v=1)
 
-[Review 2 - Conditionals](https://replit.com/@RazEfron/Review-2-Conditionals?v=1)https://replit.com/@RazEfron/Review-2-Conditionals?v=1)
+[Review 2 - Conditionals](https://replit.com/@RazEfron/Review-2-Conditionals?v=1)
 
 [Review 3 - Conditionals](https://replit.com/@RazEfron/Review-3-Conditionals?v=1)
 
